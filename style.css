@@ -1,0 +1,28 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Fredoka", sans-serif;
+}
+
+
+
+.container{
+    width: 1139px;
+    margin: 45px auto;
+
+}
+
+
+div h1{
+    color: rgb(229, 49,112);
+    text-align: center;
+}
+
+#paragrafo{
+    text-align: center;
+    padding-top: 62px;
+}
+
