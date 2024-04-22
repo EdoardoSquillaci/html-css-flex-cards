@@ -48,13 +48,31 @@ div h1{
     margin: auto;
     margin-bottom: 10px;
     background-color: rgb(15, 14, 23);
-    box-shadow: 1px 1px 5px black
+    box-shadow: 1px 1px 5px black;
+    display: flex;
+    flex-direction: row;
 }
+
 
 .flex-cards img{
     height: 100px;
     width: 100px;
 }
+
+.flex-cards h2 {
+    color: white;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 14px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
 
 
 
